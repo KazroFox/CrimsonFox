@@ -1,13 +1,6 @@
-# RhinoBot: The music bot for Discord.
+# CrimsonFox: Bot for Discord
 
-MusicBot is a Discord music bot written in [Python](https://www.python.org "Python homepage"). It plays requested songs and if the queue becomes empty it will play through a list of existing songs.
-
-### How do I set it up?
-
-- [Windows Tutorial](https://github.com/SexualRhinoceros/MusicBot/wiki/Installation-guide-for-Windows-7-and-up "Windows instructions")
-- [Linux Tutorial](https://github.com/SexualRhinoceros/MusicBot/wiki/Installation-guide-for-Ubuntu-14.04-and-other-versions "Linux instructions")
-- [Docker Tutorial](https://github.com/SexualRhinoceros/MusicBot/wiki/Installation-guide-for-Docker)
-- [OSX Tutorial](https://github.com/SexualRhinoceros/MusicBot/wiki/Installation-guide-for-OSX)
+A fork of [Some Dragon](https://github.com/robingall2910/RobTheBoat), with some custom stuff that is probably worthless to anyone besides me and my friends. Stick with the original folks.
 
 ### Commands
 
