@@ -86,6 +86,7 @@ shard_id = None #begin sharding!
 #Discord Game Statuses! :D
 dis_games = [
     discord.Game(name='with fire'),
+    discord.Game(name='.e621 rhyogen gay -mlp'),
     discord.Game(name='with Robin'),
     discord.Game(name='baa'),
     discord.Game(name='Denzel Curry - Ultimate'),
